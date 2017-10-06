@@ -6,3 +6,10 @@ function forLoop(a){
   }
   return a
 }
+
+function whileLoop(a){
+  while(a>0){
+    a--
+  }
+  return "done"
+}
