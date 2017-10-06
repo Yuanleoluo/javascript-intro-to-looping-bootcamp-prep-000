@@ -21,7 +21,7 @@ function whileLoop(a){
 
 function doWhileLoop(a){
   do {
-    delete 
+    a.pop()
   }while(a.length > 0 || maybeTrue())
   return a
 }
