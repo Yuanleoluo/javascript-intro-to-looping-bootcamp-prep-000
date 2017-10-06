@@ -1,4 +1,6 @@
-
+function maybeTrue() {
+  return Math.random() >= 0.5
+}
 
 function forLoop(a){
   for(let i = 0; i<25; i++){
