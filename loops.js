@@ -9,7 +9,7 @@ function forLoop(a){
 
 function whileLoop(a){
   while(a>0){
-    console.log(i)
+    console.log(a)
     a--
   }
   return "done"
