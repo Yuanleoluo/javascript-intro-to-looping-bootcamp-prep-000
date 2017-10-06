@@ -18,3 +18,10 @@ function whileLoop(a){
   }
   return "done"
 }
+
+function doWhileLoop(a){
+  do {
+    delete 
+  }while(a.length > 0 || maybeTrue())
+  return a
+}
