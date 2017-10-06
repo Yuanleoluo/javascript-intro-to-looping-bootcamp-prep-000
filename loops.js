@@ -13,8 +13,8 @@ function forLoop(a){
 
 function whileLoop(a){
   while (a>0){
-    console.log(i)
-    i--
+    console.log(a)
+    a--
   }
   return "done"
 }
